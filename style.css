@@ -14,13 +14,30 @@ nav {
     text-align: center;
     color: black;
     font-size: 25px;
-    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-#bio-image{
-    float: left;
+p {
+    font-size: 18px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 footer {
     text-align:center;
+}
+
+#bio_image {
+    text-align: center;
+}
+
+head {
+    background: #777;
+    content: #ebebeb;
+}
+
+body {
+    width: 960px;
+}
+
+section {
+    width: 495px;
 }
