@@ -1,0 +1,26 @@
+h1 {
+    background: #333333;
+    text-align: center;
+    color: #eee;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom:20px;
+    font-size: 30px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+nav {
+    padding: 10px 0;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+#bio-image{
+    float: left;
+}
+
+footer {
+    text-align:center;
+}
