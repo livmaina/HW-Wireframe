@@ -41,3 +41,10 @@ body {
 section {
     width: 495px;
 }
+
+#Message {
+    width: 200px;
+    height: 100px;
+}
+
+
